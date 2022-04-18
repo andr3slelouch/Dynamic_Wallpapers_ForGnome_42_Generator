@@ -19,7 +19,7 @@ their subdirectory with the respective wallpapers.
         * wallpaper-2.png, wallpaper-13.png
     The order that will be followed will be those with the number 1 first, that is, an ascending order for numbers in 
     the file name are not fulfilled.
- 5. After generating the XML files use the bash script copy_xml_to_system_dir.sh as root in the current directory to move
+ 5. After generating the XML files use the bash script **copy_xml_to_system_dir.sh** as root in the current directory to move
     all the generated files to the system directory(/usr/share/gnome-background-properties/) or do it manually
  6. Enjoy
 
